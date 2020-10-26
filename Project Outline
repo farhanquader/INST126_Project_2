@@ -1,0 +1,11 @@
+# Project_Outline
+
+Data Structures:
+    Lists as Stacks:
+    Used to split the logs into seperate items.
+    Lists as Queues:
+    Used to reaarage the usernames as the first item in the lists.
+    List Comphrensions:
+    Used to satisfy the conditions of abonormal ammount of logins and the unique domain names.
+    Dictionaries with Text Parsing:
+    Report the Sample Behavior Cases
